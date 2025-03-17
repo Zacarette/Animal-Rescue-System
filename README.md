@@ -1,4 +1,5 @@
 # Rescue Animal System
+## About the Project
 This is a Java-based application designed to manage rescue animals, specifically dogs and monkeys. The system allows users to intake new animals, reserve animals for service, and view lists of available or reserved animals.
 ## Features
 - **Intake a New Dog:** Allows the user to add a new dog to the system.
