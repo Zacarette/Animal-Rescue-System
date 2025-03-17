@@ -1,4 +1,4 @@
-# Rescue Animal System
+# Animal Rescue System
 ## About the Project
 This is a Java-based application designed to manage rescue animals, specifically dogs and monkeys. The system allows users to intake new animals, reserve animals for service, and view lists of available or reserved animals.
 ## Features
@@ -17,7 +17,7 @@ This is a Java-based application designed to manage rescue animals, specifically
 Java (JDK 8 or higher) installed on your machine.
 ### Steps
 1. **Clone the Repository in Git Bash:**  
-   `git clone https://github.com/Zacarette/SNHU-IT-145.git`  
+   `git clone https://github.com/Zacarette/Animal-Rescue-System.git`  
 2. **Compile the Java files:**  
    `javac RescueAnimal.java Dog.java Monkey.java Driver.java`  
 3. **Run the program:**  
