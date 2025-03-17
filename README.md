@@ -47,3 +47,5 @@ Java (JDK 8 or higher) installed on your machine.
    - All dogs
    - All monkeys
    - All non-reserved animals
+## Author
+Michael Zaccaria
